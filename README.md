@@ -2,7 +2,8 @@
 
 - 🌱 I’m currently learning SWIFT
 
-![](https://miro.medium.com/max/960/1*QPSlOyQ0EeJG169-JBYOUQ.gif)
+![](https://user-images.githubusercontent.com/74707655/190140919-17fa7618-26f1-4066-acdc-1970024e60bc.gif)
+
 
 <!--
 **AtaevAleksandr/AtaevAleksandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
