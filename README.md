@@ -1,7 +1,9 @@
 ### Hello there 👋
 
-- 🌱 I’m currently learning SWIFT
-- 🔍 Want to find a job where I could develop my skills and knowledge.
+- if (iOS && Swift).isLoving {
+      print("❤️")
+}
+- 🔍 Want to find a job where I could improve my skills and knowledge.
 
 ![](https://user-images.githubusercontent.com/74707655/190140919-17fa7618-26f1-4066-acdc-1970024e60bc.gif)
 
